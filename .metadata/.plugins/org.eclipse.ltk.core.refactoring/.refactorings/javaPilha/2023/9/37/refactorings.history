@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;javaPilha.fluxo.java&apos; to &apos;Fluxo.java&apos;&#x0D;&#x0A;- Original project: &apos;javaPilha&apos;&#x0D;&#x0A;- Original element: &apos;javaPilha.fluxo.java&apos;&#x0D;&#x0A;- Renamed element: &apos;javaPilha.Fluxo.java&apos;" description="Rename compilation unit &apos;fluxo.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;javaPilha{fluxo.java" name="Fluxo.java" references="false" stamp="1694816861179" version="1.0"/>
+</session>
